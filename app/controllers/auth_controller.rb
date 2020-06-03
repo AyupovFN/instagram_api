@@ -15,7 +15,6 @@ def process_callback
   redirect_to '/'
 end
 
-
 protected
 
 def normalize_instagram_data(oauth_data)
